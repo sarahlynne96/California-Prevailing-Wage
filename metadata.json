@@ -1,0 +1,5 @@
+{
+  "name": "California Prevailing Wage Assistant",
+  "description": "An AI-powered tool for California solar and energy storage contractors to understand, calculate, and comply with prevailing wage requirements. Features include a cost calculator, regulatory Q&A, applicability determination, compliance checklist generator, and cost impact analysis.",
+  "requestFramePermissions": []
+}
